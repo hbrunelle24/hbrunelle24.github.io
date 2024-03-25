@@ -39,9 +39,9 @@ ul li:before {
     margin: 0 0.5em;
 }
 
-
 img {
-    margin-left:800px;
+    right:200px;
+    position: absolute;
 }
 
 .footer {
